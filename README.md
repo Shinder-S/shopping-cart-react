@@ -11,7 +11,7 @@ This repository contains a REACT JS shopping cart project as part of the REACT.J
 ## Required:
 
 - **NODE.JS**: You must have NodeJS installed.
-- GIT**: You must have GIT installed.
+- **GIT**: You must have GIT installed.
 
 ## About the React.JS course
 In this course you will learn the most sought after frontend technology in the market, which allows you to make amazing SPA web applications.
