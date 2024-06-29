@@ -1,8 +1,17 @@
-# React + Vite
+# FINAL PROJECT: Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a REACT JS shopping cart project as part of the REACT.JS course given by Sergie Code for Digital House.
 
-Currently, two official plugins are available:
+## Usage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository by `git clone https://github.com/Shinder-S/shopping-cart-react.git`.
+2.  Open the project in your code editor and in the terminal above the project folder enter `npm install`.
+3.  Once finished you will be able to run the project in development format using `npm run dev`.
+
+## Required:
+
+- **NODE.JS**: You must have NodeJS installed.
+- GIT**: You must have GIT installed.
+
+## About the React.JS course
+In this course you will learn the most sought after frontend technology in the market, which allows you to make amazing SPA web applications.
